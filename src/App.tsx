@@ -6,6 +6,7 @@ function App() {
     <div id="root">
       <ListGroup />
       <Message />
+      <h1>This is the beginning of my portfolio website with React!</h1>
 
     </div>
   );
